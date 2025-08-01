@@ -1,0 +1,5 @@
+name: APIHub
+main: net.heeheehub.apihub.APIHub.APIHubManager
+version: 1.0-FINAL
+description: APIHub plugin
+author: NaphonJangjit
